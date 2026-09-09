@@ -1,5 +1,7 @@
 # Select All
 
+![Select All specimen](images/specimen.png)
+
 A color font based on EB Garamond where every glyph appears permanently text-selected. White letterforms on blue highlight rectangles.
 
 ## Download
