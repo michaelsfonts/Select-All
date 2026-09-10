@@ -6,7 +6,7 @@ A color font based on EB Garamond where every glyph appears permanently text-sel
 
 ## Download
 
-**[Download Select All 1.200](https://github.com/michaelsfonts/Select-All/releases/latest)** — TTF to install on your computer, WOFF2 for the web, or the zip with both.
+**[Download Select All 1.200](https://github.com/michaelsfonts/Select-All/releases/latest)**: TTF to install on your computer, WOFF2 for the web, or the zip with both.
 
 The same files are in [`fonts/`](fonts/) if you would rather browse the repo.
 
