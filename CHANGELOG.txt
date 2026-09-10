@@ -1,17 +1,17 @@
-CHANGELOG — Select All
+CHANGELOG: Select All
 
-v1.2 — Adobe app support
+v1.2: Adobe app support
 - Added SVG table for Adobe app compatibility (Photoshop, InDesign, Illustrator)
 - COLR/CPAL tables retained for browser rendering
 - Font now renders in color across all major browsers and Adobe CC apps
 
-v1.1 — Fixed mobile rendering
+v1.1: Fixed mobile rendering
 - Removed SVG-in-OpenType table that caused broken rendering on iOS Safari and other mobile browsers
-- COLR/CPAL tables remain as the sole color format — supported in all modern browsers and Adobe CC 2018+
+- COLR/CPAL tables remain as the sole color format, supported in all modern browsers and Adobe CC 2018+
 - WOFF2 file size reduced from 509 KB to 149 KB
 - Note: Requires Adobe CC 2018 or later for color rendering; older versions (CS6, etc.) will show plain black glyphs
 
-v1.0 — Initial release
+v1.0: Initial release
 - Color font with COLR/CPAL selection highlight layer
 - Based on EB Garamond Regular under OFL 1.1
 - Blue (#3390FF) background rectangle behind every glyph
